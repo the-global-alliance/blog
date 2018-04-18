@@ -2,8 +2,6 @@
 
 FIRST Global HQ released today the long anticipated game of the 2018 FIRST Global Challenge, **Energy Impact**. Though you have to say it softly, there's no doubt that the game this year was more meticulously planned and designed than last year's free-for-all **H2O Flow**. With a wider field, more scoring zones and a special addition to the tournament format, it's unquestionable that Energy Impact will be a promising game for FGC's sophomore year.
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
-
 # The Game: A Rundown
 **Energy Impact** is played on a 6m x 7m field, between two alliances (or villages) of three robots - the Red and Blue alliances, for 2 minutes and 30 seconds per game. The objective is to generate as much power than the opposing alliance. To do so, alliances will have to collect and manipulate cardboard 15cm a side cubes, called Fuel Cubes and Power Line Cubes, as well as transport "Solar Panels" and spin a "Wind Turbine", before parking on their platform for end-game points. They can also get a coopertition bonus for activating the "Coopertition Power Line".
 
@@ -21,25 +19,34 @@ As in any FIRST game, teams start lined up on their baselines.
 There are four ways for teams to score points (outside of the end-game). 
 ### Solar Panel
 Alliance robots can retrieve 15x25cm, 200g solar panels in the loading zone from human players (no contact, direct or transitive). Robots must transport the panels to the Village Power Station, and human players can then install the panels on the "Solar Array". 
+
 > Each panel installed on the array generates 1 kJ (point) per second for the remainder of the game.
+
 ### Wind Turbine
 Alliance robots must first connect the Wind Turbine to the Village Power Station via their Power Line. To activate a Power Line, they must have first brought a Power Line Cube to their Village Power Station. 
 
 After the Turbine has been connected, a robot must spin the turbine's crank - a "fork shaped protrusion 30cm off the ground" - three times.
+
 > After being connected and cranked three times, the turbine generates 1 kJ (point) per second for the remainder of the game. 
+
 ### Reaction Plant
 Alliance robots must first connect their Reaction Plant to the Village Power Station. The plant is in the middle of the field, and is shared by both alliances. Alliances must fill the 8 slots (4 on the ground, 4 above the ground by 47.5cm) with Fuel Cubes to score.
+
 > After being connected and filled completely, the plant generates 3 kJ (points) per second for the remainder of the game.
+
 ### Combustion Plant
 Alliance robots must first connect their Combustion Plant to the Village Power Station. This plant allows alliances to cash in a Fuel Cube for points by placing them in either the low or high goals.
+
 > After being connected, the plant generates 5 kJ (points) per cube in the low goal, and 20 kJ (points) per cube in the high goal.
 
 ## Bonus Scoring
 ### Coopertition Bonus
 Alliances are encouraged to work together to get a coopertition bonus.
 > If both alliances can deliver one of their Power Line Cubes to the opposing Village Power Station, a 100 point Coopertition Bonus is applied to each alliance.
+
 ### End-Game (Parking)
 Robots can park at their Village Power Station when T=0 for extra points.
+
 > 1 robot parked: 15 points
 > 2 robots parked: 30 points
 > 3 robots parked: 50 points
