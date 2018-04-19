@@ -1,11 +1,12 @@
 
 
+
 FIRST Global HQ released today the long anticipated game of the 2018 FIRST Global Challenge, **Energy Impact**. Though you have to say it softly, there's no doubt that the game this year was more meticulously planned and designed than last year's free-for-all **H2O Flow**. With a wider field, more scoring zones and a special addition to the tournament format, it's unquestionable that Energy Impact will be a promising game for FGC's sophomore year.
 
 # The Game: A Rundown
 **Energy Impact** is played on a 6m x 7m field, between two alliances (or villages) of three robots - the Red and Blue alliances, for 2 minutes and 30 seconds per game. The objective is to generate as much power than the opposing alliance. To do so, alliances will have to collect and manipulate cardboard 15cm a side cubes, called Fuel Cubes and Power Line Cubes, as well as transport "Solar Panels" and spin a "Wind Turbine", before parking on their platform for end-game points. They can also get a coopertition bonus for activating the "Coopertition Power Line".
 
-See the full game video here: https://www.youtube.com/watch?v=FPDQhhv11KY&feature=youtu.be
+See the full game video here: [https://www.youtube.com/watch?v=FPDQhhv11KY&feature=youtu.be](https://www.youtube.com/watch?v=FPDQhhv11KY&feature=youtu.be)
 
 ## Starting Positions & Game Pieces
 As in any FIRST game, teams start lined up on their baselines. 
