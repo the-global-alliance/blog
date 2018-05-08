@@ -1,6 +1,3 @@
-
-
-
 FIRST Global HQ released today the long anticipated game of the 2018 FIRST Global Challenge, **Energy Impact**. Though you have to say it softly, there's no doubt that the game this year was more meticulously planned and designed than last year's free-for-all **H2O Flow**. With a wider field, more scoring zones and a special addition to the tournament format, it's unquestionable that Energy Impact will be a promising game for FGC's sophomore year.
 
 # The Game: A Rundown
